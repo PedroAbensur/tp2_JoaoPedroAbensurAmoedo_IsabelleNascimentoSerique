@@ -1,0 +1,4 @@
+1) Execute o comando g++ upload.cpp conversao.cpp conversao.hpp -o upload
+2) Execute o comando g++ findrec.cpp conversao.cpp conversao.hpp -o findrec
+3) Execute "./upload artigo.csv" para popular o arquivo hash.
+4) Por fim, execute "./findrec <ID>", inserindo um valor para o ID ser pesquisado.
